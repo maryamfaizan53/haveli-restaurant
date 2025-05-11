@@ -69,7 +69,7 @@ const About = () => {
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
                         </p>   */}
                         <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
-  Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; <strong>it's</strong> about connection, culture, and community.
+  Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; its about connection, culture, and community.
 </p>
 <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
   From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
@@ -104,7 +104,7 @@ const About = () => {
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
                         </p> */}
                         <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
-  Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; <strong>it's</strong> about connection, culture, and community.
+  Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; its about connection, culture, and community.
 </p>
 <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
   From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
