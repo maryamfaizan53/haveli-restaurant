@@ -14,7 +14,7 @@ const Navbar = () => {
     <nav className="bg-black text-white px-6 py-4">
       <div className="flex justify-between items-center">
         {/* Logo */}
-        <Link href="/" className="text-5xl font-bold tracking-wider"><Image src={"/logo/logo.png"} alt='Logo' width={50} height={50} className='rounded-full'/></Link>
+        <Link href="/" className="text-5xl font-bold tracking-wider pl-8"><Image src={"/logo/logo.png"} alt='Logo' width={50} height={50} className='rounded-full'/></Link>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-6 font-light tracking-wide text-sm">

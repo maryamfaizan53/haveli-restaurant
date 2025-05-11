@@ -1,6 +1,5 @@
 "use client";
 import React from 'react';
-import Navbar from '../Navbar';
 import Image from 'next/image';
 import { useState } from 'react';
 
@@ -20,7 +19,7 @@ export default function Menu() {
 
   return (
     <div className="bg-black min-h-screen text-white px-6 py-12">
-      <h2 className="text-3xl font-bold pl-10">MENU / <strong className="text-orange-500 text-2xl font-semibold">CATEGORIES</strong></h2>
+      <h2 className="text-3xl font-bold pl-10 mt-8">MENU / <strong className="text-orange-500 text-2xl font-semibold">CATEGORIES</strong></h2>
 
       {/* Starter, Salad , Soup */}
       <div onClick={() => openModal("/menu/soup.png")} className="mt-12 flex flex-col md:flex-row items-center md:items-start gap-8 cursor-pointer">
