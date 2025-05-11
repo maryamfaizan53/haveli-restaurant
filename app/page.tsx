@@ -1,15 +1,13 @@
 import React from 'react';
-import Gallery from '@/app/components/gallery/gallery';
-import Contact from '@/app/components/contact/page';
-import Navbar from './components/Navbar';
-import Menu from './components/menu/menu';
-import HomePage from './components/home/home';
-import About from './components/about/about';
+import Gallery from '@/app/gallery/page';
+import Contact from '@/app/contact/page';
+import Menu from './menu/page';
+import HomePage from './home/page';
+import About from './about/page';
 
 const Home = () => {
   return (
     <div>
-      <Navbar />
       <HomePage/>
       <About />
       <Menu/>
