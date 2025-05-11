@@ -63,7 +63,7 @@ const About = () => {
                 >
                     <div className="w-full md:w-1/2">
                         <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
-                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it`&apos;`s about connection, culture, and community.
+                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it"&apos;"s about connection, culture, and community.
                         </p>
                         <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
@@ -92,7 +92,7 @@ const About = () => {
                             Manufacturing
                         </h1>
                         <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
-                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it`&apos;`s about connection, culture, and community.
+                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it"&apos;"s about connection, culture, and community.
                         </p>
                         <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
