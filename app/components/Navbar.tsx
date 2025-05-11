@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { FaInstagram, FaFacebookF } from 'react-icons/fa';
 import { useState } from 'react';
 import { HiMenu, HiX } from 'react-icons/hi';
+import Image from 'next/image';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,8 +13,8 @@ const Navbar = () => {
   return (
     <nav className="bg-black text-white px-6 py-4">
       <div className="flex justify-between items-center">
-        {/* Logo or Brand */}
-        <Link href="/" className="text-5xl font-bold tracking-wider">🍽</Link>
+        {/* Logo */}
+        <Link href="/" className="text-5xl font-bold tracking-wider"><Image src={"/logo/logo.png"} alt='Logo' width={50} height={50} className='rounded-full'/></Link>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-6 font-light tracking-wide text-sm">
