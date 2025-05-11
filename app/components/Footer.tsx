@@ -4,7 +4,7 @@ import { IoLogoWhatsapp } from "react-icons/io";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#2c2c2c] text-white px-4 py-10">
+    <footer className="bg-black text-white px-4 py-10">
       {/* Top Section */}
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-10">
         {/* Address */}
