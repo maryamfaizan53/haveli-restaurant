@@ -62,10 +62,10 @@ const About = () => {
                     transition={{ duration: 1.5, delay: 1 }}
                 >
                     <div className="w-full md:w-1/2">
-                        <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
-                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it's about connection, culture, and community.
+                        <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
+                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; its about connection, culture, and community.
                         </p>
-                        <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
+                        <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
                         </p>
                     </div>
@@ -91,10 +91,10 @@ const About = () => {
                         <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-[#c19d60] mb-4">
                             Manufacturing
                         </h1>
-                        <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
-                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; it's about connection, culture, and community.
+                        <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
+                            Our story began with a passion for food and a desire to share the rich culinary traditions of Pakistan with the world. We believe that food is not just about sustenance; its about connection, culture, and community.
                         </p>
-                        <p className="text-gray-300 leading-relaxed mb-4 text-sm sm:text-base">
+                        <p className="text-gray-100 font-extrabold leading-relaxed mb-4 text-lg sm:text-base">
                             From our humble beginnings, we have grown into a beloved destination for those seeking authentic Pakistani cuisine. Our team is dedicated to providing an unforgettable dining experience, where every meal is a celebration of flavor and tradition.
                         </p>
                         <Image

@@ -31,7 +31,7 @@ export default function Gallery() {
         transition={{ duration: 0.5 }}
         className="py-8 text-center relative z-10"
       >
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#FFD700] relative">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#c19d60] relative">
           Our Gallery
           <span className="block w-20 h-1 bg-[#FFD700] mx-auto mt-2 rounded"></span>
         </h1>
