@@ -10,7 +10,7 @@ const GetInTouch: React.FC = () => {
       <div className="w-full max-w-6xl bg-black p-8 text-white rounded-lg shadow-lg grid grid-cols-1 md:grid-cols-2 gap-8">
         {/* Left Section - Contact Info */}
         <div className="space-y-6">
-          <h2 className="text-2xl text-grey-100 font-bold">Contact With Us</h2>
+          <h2 className="text-2xl text-[#c19d60] font-bold">Contact With Us</h2>
           <p className="text-gray-200">
             For more information about our Reservations & Services, please feel
             free to drop us an email. Our staff will always be there to help you
@@ -22,7 +22,7 @@ const GetInTouch: React.FC = () => {
           <div className="flex items-start space-x-4">
             <FiMapPin className="text-2xl text-gray-300" />
             <div>
-              <h3 className="font-bold">Address</h3>
+              <h3 className="font-bold text-[#c19d60]">Address</h3>
               <p className="text-gray-300">
                 Haveli,Main Super highway, Near toll Plaza..
                 <br />
@@ -34,7 +34,7 @@ const GetInTouch: React.FC = () => {
           <div className="flex items-start space-x-4">
             <FiPhone className="text-2xl text-gray-300" />
             <div>
-              <h3 className="font-bold">Phone</h3>
+              <h3 className="font-bold text-[#c19d60]">Phone</h3>
               <p className="text-gray-300">
                 Mobile: 03213465780
                 <br />
@@ -46,7 +46,7 @@ const GetInTouch: React.FC = () => {
           <div className="flex items-start space-x-4">
             <FiClock className="text-2xl text-gray-300" />
             <div>
-              <h3 className="font-bold">Working Time</h3>
+              <h3 className="font-bold text-[#c19d60]">Working Time</h3>
               <p className="text-gray-300">
                 Monday-Friday: 2:00pm - 12:00pm
                 <br />
